@@ -1,0 +1,65 @@
+.taskNameComplete{
+    text-decoration: line-through;
+}
+
+body{
+    background: linear-gradient(to right, #f857a6, #ff5858);
+    Box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75); 
+    Font-family: Open Sans; 
+    padding: 2%;
+    Font-weight: 300; 
+
+    
+    
+    
+}
+
+table{
+    
+    
+    
+}
+
+.Background{
+    border-radius: 2%;
+    background-color: azure;
+    margin: 5%;
+    padding: 5%;
+}
+h1{
+    font-weight: 900;
+}
+
+.submit {
+    background: #ff1493;
+    color: aliceblue;
+    padding:10px;
+    border-radius: 10%;
+    margin:20px;
+    text-align: center;
+    text-decoration: double;
+    margin-left: 45%;
+}
+
+.user{
+    border-color: rgb(15, 14, 12);
+    border: 10px;
+    Box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75); 
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.buttoncomp{
+    color: #ff69b4;
+    background-color: aliceblue;
+    border-color: #ff69b4;
+    border-radius: 13%;
+}
+
+.lpriority{
+ color: rgb(105, 155, 31);
+}
+
+.hpriority{
+    color: red;
+}
